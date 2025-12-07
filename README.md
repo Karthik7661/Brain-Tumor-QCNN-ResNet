@@ -101,6 +101,8 @@ Brain-Tumor-QCNN-ResNet/
     ├── result_pituitary.png
     └── result_no_tumor.png
 ```
+---
+
 ## Classification Report
 | Class        | Precision | Recall | F1-Score | Support |
 |--------------|-----------|--------|----------|----------|
@@ -111,7 +113,9 @@ Brain-Tumor-QCNN-ResNet/
 | **Accuracy** | —         | —      | **0.99** | 1143 |
 | Macro Avg    | 0.98      | 0.98   | 0.98     | 1143 |
 | Weighted Avg | 0.98      | 0.98   | 0.98     | 1143 |
+
 ---
+
 ##  Sample Results 
 
 <table>
@@ -125,8 +129,13 @@ Brain-Tumor-QCNN-ResNet/
   </tr>
 </table>
 ---
-## Citation
-S. Karthik, "Brain Tumor Classification using Hybrid QCNN with ResNet," GitHub Repository, 2025.
+
+## Author
+**S. Karthik**  
+Developer & Research Student  
+Brain Tumor Classification using Hybrid QCNN with ResNet (2025)
+
+
 ---
 
 ## Installation
