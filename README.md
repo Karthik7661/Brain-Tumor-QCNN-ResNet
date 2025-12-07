@@ -78,6 +78,25 @@ brain_Tumor_Types/
 └─ no_tumor/
 
 ---
+
+##  Repository Structure
+
+Brain-Tumor-QCNN-ResNet/
+│
+├── train_hybrid.py # Training script (Hybrid QCNN + ResNet)
+├── predict_gradio.py # Gradio-based prediction UI
+├── compare_models.py # Baseline vs Hybrid model comparison
+├── requirements.txt # Dependencies for the project
+├── README.md # Project documentation
+├── .gitignore # Git ignore rules
+│
+└── assets/ # Images for README (results, banner, etc.)
+├── bannerdl.jpg
+├── result_glioma.png
+├── result_meningioma.png
+├── result_pituitary.png
+└── result_no_tumor.png
+
 ## Classification Report
 | Class        | Precision | Recall | F1-Score | Support |
 |--------------|-----------|--------|----------|----------|
@@ -89,8 +108,7 @@ brain_Tumor_Types/
 | Macro Avg    | 0.98      | 0.98   | 0.98     | 1143 |
 | Weighted Avg | 0.98      | 0.98   | 0.98     | 1143 |
 ---
-
-##  Sample Results (2×2)
+##  Sample Results 
 
 <table>
   <tr>
@@ -102,7 +120,23 @@ brain_Tumor_Types/
     <td align="center"><img src="assets/result_no_tumor.png" width="300"><br>No Tumor</td>
   </tr>
 </table>
-
+---
 ## Citation
 S. Karthik, "Brain Tumor Classification using Hybrid QCNN with ResNet," GitHub Repository, 2025.
+---
+
+## Installation
+Follow the steps below to set up the environment and run the Hybrid QCNN + ResNet model.
+
+### Download or Clone the Repo
+```bash
+git clone https://github.com/Karthik7661/Brain-Tumor-QCNN-ResNet.git
+cd Brain-Tumor-QCNN-ResNet
+#2 — Install Required Dependencies
+pip install -r requirements.txt
+#3 — Train the Hybrid QCNN + ResNet Model
+python train_hybrid.py
+#4 — Run the Gradio Prediction Application
+python predict_gradio.py
+
 
