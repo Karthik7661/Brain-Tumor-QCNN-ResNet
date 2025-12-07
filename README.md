@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Brain Tumour QCNN Banner" width="100%">
+  <img src="assets/bannerdl.png" alt="Brain Tumour QCNN Banner" width="100%">
 </p>
 
 <p align="center">
