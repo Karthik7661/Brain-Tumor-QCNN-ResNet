@@ -19,7 +19,7 @@ Hybrid quantum–classical model combining a small **Quantum FiLM** modulation (
 
 ---
 
-## 🔥 Features
+##  Features
 
 - Quantum FiLM modulation (per-image scale & shift) computed by a 4-qubit PennyLane circuit  
 - ResNet-18 backbone adapted for grayscale medical images  
@@ -30,7 +30,7 @@ Hybrid quantum–classical model combining a small **Quantum FiLM** modulation (
 
 ---
 
-## 🧾 Tech Stack
+##  Tech Stack
 
 - Python 3.8+  
 - PyTorch & torchvision (modeling & training)  
@@ -46,7 +46,7 @@ Hybrid quantum–classical model combining a small **Quantum FiLM** modulation (
 
 ---
 
-## 📌 Dataset
+##  Dataset
 
 Kaggle dataset by the author:  
 https://www.kaggle.com/datasets/skarthik112/karthik-braintypesdata-mri
