@@ -1,0 +1,5 @@
+banner.png
+result_glioma.png
+result_meningioma.png
+result_pituitary.png
+result_no_tumor.png
