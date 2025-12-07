@@ -15,7 +15,7 @@
 
 # Brain Tumor Classification using Hybrid QCNN with ResNet
 
-Hybrid quantum–classical model combining a small **Quantum FiLM** modulation (PennyLane) applied *before* a ResNet-18 backbone. The model classifies MRI images into multiple brain tumour categories (glioma, meningioma, pituitary) plus `no_tumor`. This repo includes training, inference (Gradio), and baseline comparison scripts.
+Hybrid quantum–classical model combining a small **Quantum FiLM** modulation (PennyLane) applied *before* a ResNet-50 backbone. The model classifies MRI images into multiple brain tumour categories (glioma, meningioma, pituitary) plus `no_tumor`. This repo includes training, inference (Gradio), and baseline comparison scripts.
 
 ---
 
