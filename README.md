@@ -83,19 +83,19 @@ brain_Tumor_Types/
 
 Brain-Tumor-QCNN-ResNet/
 │
-├── train_hybrid.py # Training script (Hybrid QCNN + ResNet)
-├── predict_gradio.py # Gradio-based prediction UI
-├── compare_models.py # Baseline vs Hybrid model comparison
-├── requirements.txt # Dependencies for the project
-├── README.md # Project documentation
-├── .gitignore # Git ignore rules
+├─ train_hybrid.py # Training script (Hybrid QCNN + ResNet)
+├─ predict_gradio.py # Gradio-based prediction UI
+├─ compare_models.py # Baseline vs Hybrid model comparison
+├─ requirements.txt # Dependencies for the project
+├─ README.md # Project documentation
+├─ .gitignore # Git ignore rules
 │
-└── assets/ # Images for README (results, banner, etc.)
-├── bannerdl.jpg
-├── result_glioma.png
-├── result_meningioma.png
-├── result_pituitary.png
-└── result_no_tumor.png
+└─ assets/ # Images for README (results, banner, etc.)
+├─ bannerdl.jpg
+├─ result_glioma.png
+├─ result_meningioma.png
+├─ result_pituitary.png
+└─ result_no_tumor.png
 
 ## Classification Report
 | Class        | Precision | Recall | F1-Score | Support |
