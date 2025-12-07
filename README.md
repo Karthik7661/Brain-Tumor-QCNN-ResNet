@@ -70,13 +70,16 @@ and generalization for medical imaging tasks.
 Kaggle dataset by the author:  
 https://www.kaggle.com/datasets/skarthik112/karthik-braintypesdata-mri
 
-Folder structure expected:
-brain_Tumor_Types/
-├─ glioma/
-├─ meningioma/
-├─ pituitary/
-└─ no_tumor/
+## Dataset Folder Structure
 
+```text
+brain_Tumor_Types/
+│
+├── glioma/
+├── meningioma/
+├── pituitary/
+└── no_tumor/
+```
 ---
 
 ## Repository Structure
@@ -139,5 +142,5 @@ pip install -r requirements.txt
 python train_hybrid.py
 #4 — Run the Gradio Prediction Application
 python predict_gradio.py
-
+```
 
