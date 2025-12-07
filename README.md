@@ -57,12 +57,12 @@ and generalization for medical imaging tasks.
 ---
 ## Key Performance Highlights
 
-🔹 99% overall validation accuracy
-🔹 High F1-scores across all tumour types (0.97–0.99)
-🔹 Perfect recall (1.00) for pituitary tumour
-🔹 Quantum FiLM improves global feature modulation
-🔹 ResNet-50 extracts rich hierarchical features
-🔹 Strong generalization on 4-class MRI dataset
+-  99% overall validation accuracy
+-  High F1-scores across all tumour types (0.97–0.99)
+-  Perfect recall (1.00) for pituitary tumour
+-  Quantum FiLM improves global feature modulation
+-  ResNet-50 extracts rich hierarchical features
+-  Strong generalization on 4-class MRI dataset
 ---
 
 ##  Dataset
@@ -104,11 +104,5 @@ brain_Tumor_Types/
 </table>
 
 ## Citation
-@misc{Karthik2025_Hybrid_QCNN_ResNet,
-  author       = {S. Karthik},
-  title        = {Brain Tumor Classification using Hybrid QCNN with ResNet},
-  year         = {2025},
-  publisher    = {GitHub},
-  
-}
+S. Karthik, "Brain Tumor Classification using Hybrid QCNN with ResNet," GitHub Repository, 2025.
 
