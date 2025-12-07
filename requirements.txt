@@ -1,0 +1,7 @@
+torch
+torchvision
+pennylane
+numpy
+pillow
+scikit-learn
+gradio
