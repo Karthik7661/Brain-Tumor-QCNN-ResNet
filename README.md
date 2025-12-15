@@ -95,6 +95,7 @@ brain_Tumor_Types/
 ### No Tumour Detected
 ![No Tumor](assets/notumor%20result.png)
 
+---
 
 ## Repository Structure
 
@@ -110,10 +111,10 @@ Brain-Tumor-QCNN-ResNet/
 │
 └── assets/                      
     ├── bannerdl.jpg
-    ├── result_glioma.png
-    ├── result_meningioma.png
-    ├── result_pituitary.png
-    └── result_no_tumor.png
+    ├── giloma result.png
+    ├── meningioma result.png
+    ├── pituitary result.png
+    └── no tumor result.png
 ```
 ---
 
@@ -128,20 +129,7 @@ Brain-Tumor-QCNN-ResNet/
 | Macro Avg    | 0.98      | 0.98   | 0.98     | 1143 |
 | Weighted Avg | 0.98      | 0.98   | 0.98     | 1143 |
 
----
 
-##  Sample Results 
-
-<table>
-  <tr>
-    <td align="center"><img src="assets/result_glioma.png" width="300"><br>Glioma</td>
-    <td align="center"><img src="assets/result_meningioma.png" width="300"><br>Meningioma</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/result_pituitary.png" width="300"><br>Pituitary</td>
-    <td align="center"><img src="assets/result_no_tumor.png" width="300"><br>No Tumor</td>
-  </tr>
-</table>
 ---
 
 ## Author
