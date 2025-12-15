@@ -81,6 +81,30 @@ brain_Tumor_Types/
 └── no_tumor/
 ```
 ---
+## Sample Results
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/giloma%20result.png" width="300"><br>
+      <b>Glioma</b>
+    </td>
+    <td align="center">
+      <img src="assets/meningioma%20result.png" width="300"><br>
+      <b>Meningioma</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/pituitary%20result.png" width="300"><br>
+      <b>Pituitary</b>
+    </td>
+    <td align="center">
+      <img src="assets/notumor%20result.png" width="300"><br>
+      <b>No Tumor</b>
+    </td>
+  </tr>
+</table>
 
 ## Repository Structure
 
